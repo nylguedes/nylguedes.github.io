@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "revestimentos.html",
     "name": "OCTO BRASIL",
     "theme": {
       "name": "mobirise3",
@@ -128,7 +128,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -447,7 +447,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/wp-20150528-11-52-22-pro-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/wp_20150528_11_52_22_pro-2000x1125.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -509,7 +509,7 @@
               "text": "<p>“First of all hands off to you guys&nbsp;</p>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/daniel-1-160x158.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/daniel%201%20-160x158.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -890,7 +890,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "class": "card-img-top",
               "width": 265,
               "active": true,
@@ -1103,7 +1103,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1258,7 +1258,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1413,7 +1413,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1568,7 +1568,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1859,7 +1859,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1921,7 +1921,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flower-2000x1332-800x532.png",
                 "image": "@PROJECT_PATH@/assets/images/flower-2000x1332.png",
-                "caption": "Flower",
+                "caption": "<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=180%2C00&amp;item_name=Revestimento+3D+Flower&amp;currency_code=BRL\">Flower</a>&nbsp; &nbsp; &nbsp; &nbsp;<a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=1.0&amp;item_name=Custom+Item&amp;currency_code=USD\">Adicionar&nbsp;</a>",
                 "active": true
               },
               {
@@ -1930,7 +1930,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/origam-ii-2000x1332-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/origam-ii-2000x1332.jpg",
+                "image": "@PROJECT_PATH@/assets/images/origam%20ii-2000x1332.jpg",
                 "caption": "Origami II",
                 "active": false
               },
@@ -1950,7 +1950,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/placa-retangular-2000x1332-800x532.png",
-                "image": "@PROJECT_PATH@/assets/images/placa-retangular-2000x1332.png",
+                "image": "@PROJECT_PATH@/assets/images/placa%20retangular-2000x1332.png",
                 "caption": "Placa retangular",
                 "active": false
               },
@@ -2403,7 +2403,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2671,7 +2671,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2826,7 +2826,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -2981,7 +2981,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -3136,7 +3136,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-alterada-copy-127x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo%20alterada%20copy-127x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
